@@ -1,0 +1,2 @@
+# XmrigStats
+Xmrig Api client
