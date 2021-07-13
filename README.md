@@ -1,2 +1,2 @@
 # XmrigStats
-Xmrig Api client
+Xmrig Api client written in PascalAbc.Net
