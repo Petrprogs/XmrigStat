@@ -2,7 +2,7 @@
 Welcome to the XmrigStat repository! XmrigStat is small app for monitoring Xmrig miner. The main language of the program is PascalAbc.Net.
 
 # How To Run
-XmrigStat is a portable application that only requires Net Framework 4.0.
+XmrigStat is a portable application that only requires Net Framework 4.0 for running.
 
 # How To Compile
 For Windows users:
