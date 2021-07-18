@@ -9,7 +9,7 @@ begin
     try
       begin
         var ini := TIniFile.Create('Config.ini').ReadString('MAIN', 'IP', ''); //Check bad config
-        if ini in ['', 'address:port'] then 
+        if ini in ['', 'http://address:port'] then 
         begin
           TextColor(LightRed);
           Writeln('Error! Invalid config data! Shutdown app and edit config.');
