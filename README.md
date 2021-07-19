@@ -12,5 +12,5 @@ For Windows users:
 4. Open the XmrigStat.pabcproj file by double-clicking the left mouse button. The PascalAbc.Net environment should open. If the enviroment does not open, then open it through the start menu in windows, go to the File > Open project and specify the path to the pabcproj file.
 
 # Donations
-Support the development of the project
+Support the development of the project.
 RYO: RYoLse6yANAZhcYCCBKmHr445wyFgsmtX4fKRr8GqRen9LU2DWsuAqJHkKaAtqQrEzb816ubudDKYYsev8JCuq8wfNVbK9jAJ45
