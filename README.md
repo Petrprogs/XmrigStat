@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/network)
 
-Welcome to the XmrigStat repository! XmrigStat is small app for monitoring Xmrig miner. The main language of the program is PascalAbc.Net.
+Welcome to the XmrigStat repository! XmrigStat is small app for monitoring Xmrig miner.
 
 # How To Run
 XmrigStat is a portable application that only requires Net Framework 4.0 for running.
