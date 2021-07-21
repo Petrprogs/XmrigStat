@@ -2,7 +2,6 @@
 [![Github All Releases](https://img.shields.io/github/downloads/Petrprogs/XmrigStats/total.svg)](https://github.com/Petrprogs/XmrigStats/releases)
 [![GitHub release](https://img.shields.io/github/release/Petrprogs/XmrigStats/all.svg)](https://github.com/Petrprogs/XmrigStats/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date-pre/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/releases)
-[![GitHub license](https://img.shields.io/github/license/Petrprogs/XmrigStats.svg)]https://github.com/Petrprogs/XmrigStats/releases)
 [![GitHub stars](https://img.shields.io/github/stars/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/network)
 
