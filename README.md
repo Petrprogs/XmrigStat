@@ -21,4 +21,5 @@ For Windows users:
 
 # Donations
 Support the development of the project.
+
 RYO: RYoLse6yANAZhcYCCBKmHr445wyFgsmtX4fKRr8GqRen9LU2DWsuAqJHkKaAtqQrEzb816ubudDKYYsev8JCuq8wfNVbK9jAJ45
