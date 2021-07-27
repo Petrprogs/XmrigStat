@@ -10,7 +10,7 @@
 Welcome to the XmrigStat repository! XmrigStat is small app for monitoring Xmrig miner.
 
 # How To Run
-XmrigStat is a portable application that only requires Net Framework 4.0 for running.
+XmrigStat is a portable application that only requires Net Framework 4.5.2 for running.
 
 # How To Compile
 For Windows users:
