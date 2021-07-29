@@ -5,6 +5,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/network)
 
+<div>
+ <a href="https://vk.com/share.php?url=https://github.com/Petrprogs/XmrigStats" target="_blank">Share VK</a>
+</div>
+
 <img src="https://b.radikal.ru/b41/2107/b1/93f26b239559.png" width="320" >
 
 Welcome to the XmrigStat repository! XmrigStat is small app for monitoring Xmrig miner.
