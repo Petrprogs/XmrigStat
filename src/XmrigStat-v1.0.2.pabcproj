@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="XmrigStat-v1.0.2" MainFile="XmrigStat-v1.0.2.pas" OutputFileName="XmrigStat-v1.0.2.exe" OutputDirectory="" ProjectType="ConsoleApp" IncludeDebugInfo="True" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" Title="" Description="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="XmrigStat-v1.0.2.pas" Path="XmrigStat-v1.0.2.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+    <Item Type="Reference" AssemblyName="Newtonsoft.Json" FullAssemblyName="Newtonsoft.Json.dll" />
+    <Item Type="Reference" AssemblyName="System.Net" FullAssemblyName="System.Net.dll" />
+    <Item Type="Reference" AssemblyName="System.Xml" FullAssemblyName="System.Xml.dll" />
+  </Items>
+</Project>
