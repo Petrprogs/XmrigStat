@@ -5,15 +5,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/network)
 
-<div>
-<!-- Put this script tag to the <head> of your page -->
-<script type="text/javascript" src="https://vk.com/js/api/share.js?95" charset="windows-1251"></script>
-<!-- Put this script tag to the place, where the Share button will be -->
-<script type="text/javascript"><!--
-document.write(VK.Share.button({url: "https://github.com/Petrprogs/XmrigStats"},{type: "round", text: "Сохранить"}));
---></script>
-</div>
-
 <img src="https://b.radikal.ru/b41/2107/b1/93f26b239559.png" width="320" >
 
 Welcome to the XmrigStat repository! XmrigStat is small app for monitoring Xmrig miner.
