@@ -82,10 +82,7 @@ begin
           Sleep(5000);
           ClrScr;
         end;
-      end;
-    
-    
-    
+      end; 
     except
       on ex: WebException do
       begin
