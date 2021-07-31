@@ -1,9 +1,9 @@
-# XmrigStats
-[![Github All Releases](https://img.shields.io/github/downloads/Petrprogs/XmrigStats/total.svg)](https://github.com/Petrprogs/XmrigStats/releases)
-[![GitHub release](https://img.shields.io/github/release/Petrprogs/XmrigStats/all.svg)](https://github.com/Petrprogs/XmrigStats/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date-pre/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/releases)
-[![GitHub stars](https://img.shields.io/github/stars/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Petrprogs/XmrigStats.svg)](https://github.com/Petrprogs/XmrigStats/network)
+# XmrigStat
+[![Github All Releases](https://img.shields.io/github/downloads/Petrprogs/XmrigStat/total.svg)](https://github.com/Petrprogs/XmrigStat/releases)
+[![GitHub release](https://img.shields.io/github/release/Petrprogs/XmrigStat/all.svg)](https://github.com/Petrprogs/XmrigStat/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date-pre/Petrprogs/XmrigStat.svg)](https://github.com/Petrprogs/XmrigStat/releases)
+[![GitHub stars](https://img.shields.io/github/stars/Petrprogs/XmrigStat.svg)](https://github.com/Petrprogs/XmrigStat/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Petrprogs/XmrigStat.svg)](https://github.com/Petrprogs/XmrigStat/network)
 
 <img src="https://b.radikal.ru/b41/2107/b1/93f26b239559.png" width="320" >
 
